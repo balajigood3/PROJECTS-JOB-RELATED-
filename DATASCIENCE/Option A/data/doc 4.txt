@@ -1,0 +1,4 @@
+Company FAQ
+What do we do? We build AI-driven solutions to automate complex workflows.
+Is my data secure? Yes, we use industry-standard encryption and private cloud hosting.
+How do I start? Contact our support team for a guided demo and API access.

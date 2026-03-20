@@ -1,0 +1,1 @@
+Machine Learning (ML) is a subset of AI focused on building systems that learn from data. Instead of being explicitly programmed, these algorithms use patterns to improve their performance over time.

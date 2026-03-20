@@ -1,0 +1,1 @@
+Deep Learning is a specialized form of ML inspired by the structure of the human brain. Using multi-layered neural networks, it processes vast amounts of unstructured data like images, speech, and text.
